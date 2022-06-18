@@ -10,6 +10,7 @@ module.exports = {
     lineNumbers: false,
   },
   themeConfig: {
+    logo:  "/assets/logo.png",
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
