@@ -2,5 +2,7 @@ module.exports = [
 	"/study/",
 	"springmvc",
 	"restful",
-	"exception"
+	"exception",
+	"springsecurity",
+	"websocket"
 ];
